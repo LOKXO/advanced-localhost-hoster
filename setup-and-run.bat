@@ -32,7 +32,7 @@ echo Setup complete. Here's how to use the server:
 echo 1. Ensure your Node.js code is in advanced-localhoster.js
 echo 2. Place your HTML and other static files in the 'public' directory.
 echo 3. To start the server, run: node advanced-localhoster.js
-echo 4. Open a web browser and go to http://localhost:3000 to view your site.
+echo 4. Open a web browser and go to http://localhost:8319 (Go to code to change) to view your site.
 echo.
 echo Would you like to start the server now? (Y/N)
 set /p choice=
